@@ -1,0 +1,17 @@
+# Google Generative AI
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+transformers
+huggingface-hub
+
+# LangChain Core
+langchain  # <-- This was missing!
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
