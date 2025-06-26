@@ -8,7 +8,7 @@ huggingface-hub
 
 # LangChain Core
 langchain  # <-- This was missing!
-
+langchain_openai
 # Environment Variable Management
 python-dotenv
 
